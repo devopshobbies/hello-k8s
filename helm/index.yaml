@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  helm-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-11-06T18:00:49.225074926+03:00"
+    description: Helm chart for k8s-hello app
+    digest: a76315ba99abb9fb1c1db08ba3e3a03f401ef097aa11ddcbaba165c2b646bda8
+    name: helm-chart
+    urls:
+    - https://devopshobbies.github.io/helm-chart/helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-06T18:00:49.22438864+03:00"
