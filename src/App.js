@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <><div class="context">
-      <h1>Hello K8s </h1>
+      <h1>Hello K8s revision 1 </h1>
     </div><div class="area">
         <ul class="circles">
           <li></li>
